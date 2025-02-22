@@ -64,7 +64,7 @@ I'm Andrii Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:! Nex
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndriiBeznosov=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndriiBeznosov=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndriiBeznosov&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndriiBeznosov=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndriiBeznosov=github)
 
 </div>
 <!--
