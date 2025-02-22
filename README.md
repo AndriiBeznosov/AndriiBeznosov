@@ -46,27 +46,6 @@ I'm Andrii Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:! Nex
 
 ## </div>
 
-#### :fire: Streak stats :
-
-<div id="badges" align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats)
-
-</div>
-
-#### :fire: Summary :
-
----
-
-<div id="badges" align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndriiBeznosov=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndriiBeznosov=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndriiBeznosov=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndriiBeznosov&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndriiBeznosov=github)
-
-</div>
 <!--
 **AndriiBeznosov/AndriiBeznosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
