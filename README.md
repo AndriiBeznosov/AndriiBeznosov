@@ -46,14 +46,6 @@ I'm Andrii Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:! Nex
 
 ## </div>
 
-#### :fire: Streak stats :
-
-<div id="badges" align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats)
-
-</div>
-
 #### :fire: Summary :
 
 ---
